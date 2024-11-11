@@ -1,51 +1,69 @@
-Calculator Master Web Project
+## About the Project
 
-Calculator Master is a sleek and responsive web-based calculator built with HTML, CSS, and JavaScript. This project provides a functional and visually appealing calculator interface that supports basic arithmetic operations, providing an intuitive experience for users.
+The **To-Do List Application** is a web-based productivity tool to help users keep track of tasks, organized with an intuitive and clean interface. It supports essential features like adding, deleting, and marking tasks as complete, making it a perfect project for beginners in JavaScript, HTML, and CSS. The application is also fully responsive and provides a seamless experience across devices.
 
-Table of Contents
-Features
-Technologies Used
-Demo
-Screenshots
-Getting Started
-Usage
-Contributing
-License
-Features
-Responsive Design: Works seamlessly on desktop and mobile devices.
-Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
-Error Handling: Prevents invalid operations (e.g., division by zero).
-Clear and Intuitive Interface: Easy-to-navigate buttons and display.
-Technologies Used
-HTML for structure
-CSS for styling and layout
-JavaScript for calculator logic
-Demo
-Check out a live demo of Calculator Master here: Calculator Master Demo
+---
 
-Screenshots
-Desktop View
+## Features
 
-Mobile View
+- **Responsive Design**: Optimized for mobile, tablet, and desktop views.
+- **Add and Remove Tasks**: Easily manage tasks with simple add and delete buttons.
+- **Mark Complete**: Track your progress by marking tasks as complete.
+- **Filter Options**: Filter tasks by completed and pending status.
+- **Local Storage Support**: Retain tasks between sessions for convenience.
 
-Getting Started
-Prerequisites
-To run this project, you only need a modern web browser (Chrome, Firefox, Safari, etc.).
+---
 
-Installation
-Clone this repository to your local machine:
+## Built With
 
-bash
-Copy code
-git clone https://github.com/santushtanand-web/webproject-2.git
-Navigate to the project folder and open index.html to view the calculator in your browser.
+- **HTML** - Structure of the application
+- **CSS** - Styling for an attractive and responsive UI
+- **JavaScript** - Logic and interaction handling
+- **Bootstrap** (optional) - For enhanced styling and layout flexibility
 
-Usage
-Click on the calculator buttons to input numbers and select operations.
-Press = to display the result.
-Use C to clear the screen or ← to delete the last input character.
-Contributing
-Contributions are always welcome! Fork the repository, make your changes, and submit a pull request.
+---
 
-License
-This project is licensed under the MIT License.
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+- **Node.js** (optional, if using any build tools or package managers)
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/santushtanand-web/webproject-2.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd webproject-2
+   ```
+3. Open `index.html` in your browser to start using the To-Do List app.
+
+---
+
+## Usage
+
+1. Open the To-Do List application.
+2. Use the input field to add new tasks and the "Add" button to save them.
+3. Click on tasks to mark them as complete or use the delete button to remove tasks.
+4. Use the filter options to view completed or pending tasks.
+
+---
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+---
+
+## Contact
+
+Santusht Anand - [GitHub](https://github.com/santushtanand-web)
+
+Project Link: [To-Do List Application](https://github.com/santushtanand-web/webproject-2)
+
+---

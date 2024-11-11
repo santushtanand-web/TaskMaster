@@ -1,7 +1,3 @@
-
-Memory updated
-Here’s a detailed and visually appealing README for your Calculator Master Web Project. This example includes placeholders for images; make sure to replace them with the actual paths to the images in your repository once they are uploaded.
-
 Calculator Master Web Project
 
 Calculator Master is a sleek and responsive web-based calculator built with HTML, CSS, and JavaScript. This project provides a functional and visually appealing calculator interface that supports basic arithmetic operations, providing an intuitive experience for users.

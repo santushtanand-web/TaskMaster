@@ -64,6 +64,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Santusht Anand - [GitHub](https://github.com/santushtanand-web)
 
-Project Link: [To-Do List Application](https://github.com/santushtanand-web/webproject-2)
+Project Link: [To-Do List Application](https://github.com/santushtanand-web/TaskMaster/tree/main)
 
 ---

@@ -35,11 +35,11 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/santushtanand-web/webproject-2.git
+   git clone https://github.com/santushtanand-web/TaskMaster.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd webproject-2
+   cd TaskMaster
    ```
 3. Open `index.html` in your browser to start using the To-Do List app.
 
